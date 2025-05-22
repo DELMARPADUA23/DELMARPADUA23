@@ -2,8 +2,8 @@
 - 👀 I’m interested in learning different programming languages
 - 🌱 I’m currently here in the Philippines
 - 💞️ I’m looking to collaborate on studying about codes
-- 📫 How to reach me in Discord website
-- 😄 Pronouns: always happy
+- 📫 Reach me in Discord website
+- 😄 Pronouns:
 - ⚡ Fun fact: simple person
 
 <!---
